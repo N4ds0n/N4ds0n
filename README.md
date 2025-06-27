@@ -1,4 +1,4 @@
-## Olá! Sou o Nádson 👋
+## Olá! Sou o Nádson, bem vindo ao meu Github! 👋
 
 - Sou estudante de Sistemas de informação na UFVJM (Universidade Federal dos Vales do Jequitinhonha e Mucuri) e um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções práticas.
 - 💻 Atualmente focado em Java voltado para Programação Orientada a Objetos, Spring Boot, Banco de Dados MySQL.
